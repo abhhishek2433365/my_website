@@ -1,54 +1,50 @@
 # my_website
 
 
-Project Title & Logo (optional)
+1. Project Title & Logo (optional)
 
-Name of your project (Watch Waala! - Landing Page)
+  > Name of your project (Watch Waala! - Landing Page)
 
-(Optional) Add a screenshot or banner image.
+  > (Optional) Add a screenshot or banner image.
 
-Description
+2. Description
 
-Short summary of what your website is about.
+  > Short summary of what your website is about.
 
-Example:
+   "Watch Waala! is a responsive landing page website to showcase stylish and modern watches. It has sections for product        arrivals, features, about, and contact."
 
-"Watch Waala! is a responsive landing page website to showcase stylish and modern watches. It has sections for product arrivals, features, about, and contact."
+3. Features
 
-Features
+  > List what your website can do.
+    Responsive navbar, arrivals section, contact form, product showcase, etc.
 
-List what your website can do.
+4. Project Structure / Tech Stack
 
-Example: Responsive navbar, arrivals section, contact form, product showcase, etc.
+  > Mention you used HTML, CSS, Font Awesome, Google Fonts.
 
-Project Structure / Tech Stack
+  > Show how files are organized (HTML file, CSS folder, images).
 
-Mention you used HTML, CSS, Font Awesome, Google Fonts.
+5. How to Run / Installation
 
-Show how files are organized (HTML file, CSS folder, images).
+  > Tell users how they can view your site:
 
-How to Run / Installation
+  > Clone/download repo
 
-Tell users how they can view your site:
+  > Open index.html in a browser
 
-Clone/download repo
 
-Open index.html in a browser
+6. Screenshots (Optional)
 
-Or deploy with GitHub Pages/Netlify.
+  > Add images from your /images/ folder to show preview of homepage, arrivals, etc.
 
-Screenshots (Optional)
+7. Future Improvements (Optional)
 
-Add images from your /images/ folder to show preview of homepage, arrivals, etc.
+  > Shopping cart, animations, backend contact form, dark mode.
 
-Future Improvements (Optional)
+8. Author / Contact
 
-Example: Shopping cart, animations, backend contact form, dark mode.
+  > Your name, email, maybe LinkedIn/GitHub link.
 
-Author / Contact
+9. License (Optional)
 
-Your name, email, maybe LinkedIn/GitHub link.
-
-License (Optional)
-
-If you want others to use your code, add MIT License or leave it free.
+  > If you want others to use your code, add MIT License or leave it free.
