@@ -25,6 +25,6 @@
 
 6. Author / Contact
 
-   #Abhishek singh , #abhisheksingh2433365@gmail.com , #https://github.com/abhhishek2433365 ,
-   #https://www.linkedin.com/in/abhishek-singh-a90502324
+    Abhishek singh , abhisheksingh2433365@gmail.com , https://github.com/abhhishek2433365 ,
+    https://www.linkedin.com/in/abhishek-singh-a90502324
 
